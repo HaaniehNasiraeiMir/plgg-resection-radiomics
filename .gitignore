@@ -222,3 +222,4 @@ data/*
 
 # Serialized data files
 *.pkl
+.DS_Store
